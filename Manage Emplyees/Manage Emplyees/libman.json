@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "jquery@3.5.1",
+      "destination": "Properties/jquery/"
+    },
+    {
+      "library": "bootbox.js@5.4.0",
+      "destination": "Properties/bootbox.js/"
+    },
+    {
+      "library": "bootstrap-vue@2.15.0",
+      "destination": "wwwroot/lib/bootstrap-vue/"
+    },
+    {
+      "library": "jquery@3.5.1",
+      "destination": "wwwroot/lib/jquery/"
+    },
+    {
+      "library": "bootbox.js@5.4.0",
+      "destination": "wwwroot/lib/bootbox.js/"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+E:\ASP.net\Manage Emplyees\Manage Emplyees\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+E:\ASP.net\Manage Emplyees\Manage Emplyees\bin\Debug\netcoreapp2.1\Manage Emplyees.deps.json
+E:\ASP.net\Manage Emplyees\Manage Emplyees\bin\Debug\netcoreapp2.1\Manage Emplyees.runtimeconfig.json
+E:\ASP.net\Manage Emplyees\Manage Emplyees\bin\Debug\netcoreapp2.1\Manage Emplyees.runtimeconfig.dev.json
+E:\ASP.net\Manage Emplyees\Manage Emplyees\bin\Debug\netcoreapp2.1\Manage Emplyees.dll
+E:\ASP.net\Manage Emplyees\Manage Emplyees\bin\Debug\netcoreapp2.1\Manage Emplyees.pdb
+E:\ASP.net\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Manage Emplyees.csprojAssemblyReference.cache
+E:\ASP.net\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Manage Emplyees.AssemblyInfoInputs.cache
+E:\ASP.net\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Manage Emplyees.AssemblyInfo.cs
+E:\ASP.net\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Manage Emplyees.RazorAssemblyInfo.cache
+E:\ASP.net\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Manage Emplyees.RazorAssemblyInfo.cs
+E:\ASP.net\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Manage Emplyees.RazorTargetAssemblyInfo.cache
+E:\ASP.net\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Manage Emplyees.dll
+E:\ASP.net\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Manage Emplyees.pdb
+E:\ASP.net\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Manage Emplyees.genruntimeconfig.cache
+E:\ASP.net\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Manage Emplyees.TagHelpers.input.cache
+E:\ASP.net\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Manage Emplyees.TagHelpers.output.cache
+E:\ASP.net\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Manage Emplyees.RazorCoreGenerate.cache
+E:\ASP.net\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Razor\Views\Account\Create.cshtml.g.cs
+E:\ASP.net\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Razor\Views\Account\CreateRole.cshtml.g.cs
+E:\ASP.net\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Razor\Views\Account\Details.cshtml.g.cs
+E:\ASP.net\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Razor\Views\Account\DetailsRole.cshtml.g.cs
+E:\ASP.net\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Razor\Views\Account\Edit.cshtml.g.cs
+E:\ASP.net\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Razor\Views\Account\EditRole.cshtml.g.cs
+E:\ASP.net\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Razor\Views\Account\Home.cshtml.g.cs
+E:\ASP.net\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Razor\Views\Account\Index.cshtml.g.cs
+E:\ASP.net\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+E:\ASP.net\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Razor\Views\Account\RoleList.cshtml.g.cs
+E:\ASP.net\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Razor\Views\Account\Search.cshtml.g.cs
+E:\ASP.net\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Razor\Views\Employees\Create.cshtml.g.cs
+E:\ASP.net\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Razor\Views\Employees\Delete.cshtml.g.cs
+E:\ASP.net\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Razor\Views\Employees\Details.cshtml.g.cs
+E:\ASP.net\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Razor\Views\Employees\Edit.cshtml.g.cs
+E:\ASP.net\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Razor\Views\Employees\Index.cshtml.g.cs
+E:\ASP.net\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Razor\Views\Employees\Search.cshtml.g.cs
+E:\ASP.net\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\ASP.net\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\ASP.net\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+E:\ASP.net\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\ASP.net\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\ASP.net\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Manage Emplyees.RazorTargetAssemblyInfo.cs
+E:\ASP.net\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Manage Emplyees.csproj.CoreCompileInputs.cache
+E:\ASP.net\Manage Emplyees\Manage Emplyees\bin\Debug\netcoreapp2.1\Manage Emplyees.Views.dll
+E:\ASP.net\Manage Emplyees\Manage Emplyees\bin\Debug\netcoreapp2.1\Manage Emplyees.Views.pdb
+E:\ASP.net\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Manage Emplyees.Views.pdb
+E:\ASP.net\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Manage Emplyees.csproj.CopyComplete
+E:\ASP.net\Manage Emplyees\Manage Emplyees\bin\Debug\netcoreapp2.1\libman.json
+C:\Users\OsAmA AL-DAJA\Desktop\Manage Emplyees\Manage Emplyees\bin\Debug\netcoreapp2.1\libman.json
+C:\Users\OsAmA AL-DAJA\Desktop\Manage Emplyees\Manage Emplyees\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\OsAmA AL-DAJA\Desktop\Manage Emplyees\Manage Emplyees\bin\Debug\netcoreapp2.1\Manage Emplyees.deps.json
+C:\Users\OsAmA AL-DAJA\Desktop\Manage Emplyees\Manage Emplyees\bin\Debug\netcoreapp2.1\Manage Emplyees.runtimeconfig.json
+C:\Users\OsAmA AL-DAJA\Desktop\Manage Emplyees\Manage Emplyees\bin\Debug\netcoreapp2.1\Manage Emplyees.runtimeconfig.dev.json
+C:\Users\OsAmA AL-DAJA\Desktop\Manage Emplyees\Manage Emplyees\bin\Debug\netcoreapp2.1\Manage Emplyees.dll
+C:\Users\OsAmA AL-DAJA\Desktop\Manage Emplyees\Manage Emplyees\bin\Debug\netcoreapp2.1\Manage Emplyees.pdb
+C:\Users\OsAmA AL-DAJA\Desktop\Manage Emplyees\Manage Emplyees\bin\Debug\netcoreapp2.1\Manage Emplyees.Views.dll
+C:\Users\OsAmA AL-DAJA\Desktop\Manage Emplyees\Manage Emplyees\bin\Debug\netcoreapp2.1\Manage Emplyees.Views.pdb
+C:\Users\OsAmA AL-DAJA\Desktop\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Manage Emplyees.csprojAssemblyReference.cache
+C:\Users\OsAmA AL-DAJA\Desktop\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Manage Emplyees.AssemblyInfoInputs.cache
+C:\Users\OsAmA AL-DAJA\Desktop\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Manage Emplyees.AssemblyInfo.cs
+C:\Users\OsAmA AL-DAJA\Desktop\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Manage Emplyees.csproj.CoreCompileInputs.cache
+C:\Users\OsAmA AL-DAJA\Desktop\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Manage Emplyees.RazorAssemblyInfo.cache
+C:\Users\OsAmA AL-DAJA\Desktop\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Manage Emplyees.RazorAssemblyInfo.cs
+C:\Users\OsAmA AL-DAJA\Desktop\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Manage Emplyees.TagHelpers.input.cache
+C:\Users\OsAmA AL-DAJA\Desktop\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Manage Emplyees.TagHelpers.output.cache
+C:\Users\OsAmA AL-DAJA\Desktop\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Manage Emplyees.RazorCoreGenerate.cache
+C:\Users\OsAmA AL-DAJA\Desktop\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Razor\Views\Account\Create.cshtml.g.cs
+C:\Users\OsAmA AL-DAJA\Desktop\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Razor\Views\Account\CreateRole.cshtml.g.cs
+C:\Users\OsAmA AL-DAJA\Desktop\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Razor\Views\Account\Details.cshtml.g.cs
+C:\Users\OsAmA AL-DAJA\Desktop\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Razor\Views\Account\DetailsRole.cshtml.g.cs
+C:\Users\OsAmA AL-DAJA\Desktop\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Razor\Views\Account\Edit.cshtml.g.cs
+C:\Users\OsAmA AL-DAJA\Desktop\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Razor\Views\Account\EditRole.cshtml.g.cs
+C:\Users\OsAmA AL-DAJA\Desktop\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Razor\Views\Account\Home.cshtml.g.cs
+C:\Users\OsAmA AL-DAJA\Desktop\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Razor\Views\Account\Index.cshtml.g.cs
+C:\Users\OsAmA AL-DAJA\Desktop\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\OsAmA AL-DAJA\Desktop\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Razor\Views\Account\RoleList.cshtml.g.cs
+C:\Users\OsAmA AL-DAJA\Desktop\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Razor\Views\Account\Search.cshtml.g.cs
+C:\Users\OsAmA AL-DAJA\Desktop\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Razor\Views\Employees\Create.cshtml.g.cs
+C:\Users\OsAmA AL-DAJA\Desktop\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Razor\Views\Employees\Delete.cshtml.g.cs
+C:\Users\OsAmA AL-DAJA\Desktop\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Razor\Views\Employees\Details.cshtml.g.cs
+C:\Users\OsAmA AL-DAJA\Desktop\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Razor\Views\Employees\Edit.cshtml.g.cs
+C:\Users\OsAmA AL-DAJA\Desktop\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Razor\Views\Employees\Index.cshtml.g.cs
+C:\Users\OsAmA AL-DAJA\Desktop\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Razor\Views\Employees\Search.cshtml.g.cs
+C:\Users\OsAmA AL-DAJA\Desktop\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\OsAmA AL-DAJA\Desktop\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\OsAmA AL-DAJA\Desktop\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\OsAmA AL-DAJA\Desktop\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\OsAmA AL-DAJA\Desktop\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\OsAmA AL-DAJA\Desktop\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Manage Emplyees.RazorTargetAssemblyInfo.cache
+C:\Users\OsAmA AL-DAJA\Desktop\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Manage Emplyees.RazorTargetAssemblyInfo.cs
+C:\Users\OsAmA AL-DAJA\Desktop\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Manage Emplyees.Views.pdb
+C:\Users\OsAmA AL-DAJA\Desktop\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Manage Emplyees.dll
+C:\Users\OsAmA AL-DAJA\Desktop\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Manage Emplyees.pdb
+C:\Users\OsAmA AL-DAJA\Desktop\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Manage Emplyees.genruntimeconfig.cache
+C:\Users\OsAmA AL-DAJA\Desktop\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Manage Emplyees.csproj.CopyComplete
