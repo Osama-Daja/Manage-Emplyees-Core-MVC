@@ -12298,21 +12298,17 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\OsAmA AL-Daja\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\OsAmA AL-Daja\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\ASP.net\\Manage Emplyees\\Manage Emplyees\\Manage Emplyees.csproj",
+      "projectUniqueName": "E:\\Github\\Private Projects\\Manage-Emplyees-Core-MVC\\Manage Emplyees\\Manage Emplyees\\Manage Emplyees.csproj",
       "projectName": "Manage Emplyees",
-      "projectPath": "E:\\ASP.net\\Manage Emplyees\\Manage Emplyees\\Manage Emplyees.csproj",
+      "projectPath": "E:\\Github\\Private Projects\\Manage-Emplyees-Core-MVC\\Manage Emplyees\\Manage Emplyees\\Manage Emplyees.csproj",
       "packagesPath": "C:\\Users\\OsAmA AL-Daja\\.nuget\\packages\\",
-      "outputPath": "E:\\ASP.net\\Manage Emplyees\\Manage Emplyees\\obj\\",
+      "outputPath": "E:\\Github\\Private Projects\\Manage-Emplyees-Core-MVC\\Manage Emplyees\\Manage Emplyees\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
         "C:\\Users\\OsAmA AL-Daja\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -12326,6 +12322,7 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
           "projectReferences": {}
         }
       },
@@ -12337,6 +12334,7 @@
     },
     "frameworks": {
       "netcoreapp2.1": {
+        "targetAlias": "netcoreapp2.1",
         "dependencies": {
           "EPPlus.Core": {
             "target": "Package",
@@ -12386,7 +12384,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.204\\RuntimeIdentifierGraph.json"
       }
     }
   },

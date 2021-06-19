@@ -92,3 +92,49 @@ C:\Users\OsAmA AL-DAJA\Desktop\Manage Emplyees\Manage Emplyees\obj\Debug\netcore
 C:\Users\OsAmA AL-DAJA\Desktop\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Manage Emplyees.pdb
 C:\Users\OsAmA AL-DAJA\Desktop\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Manage Emplyees.genruntimeconfig.cache
 C:\Users\OsAmA AL-DAJA\Desktop\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Manage Emplyees.csproj.CopyComplete
+E:\Github\Private Projects\Manage-Emplyees-Core-MVC\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Manage Emplyees.dll
+E:\Github\Private Projects\Manage-Emplyees-Core-MVC\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Manage Emplyees.pdb
+E:\Github\Private Projects\Manage-Emplyees-Core-MVC\Manage Emplyees\Manage Emplyees\bin\Debug\netcoreapp2.1\libman.json
+E:\Github\Private Projects\Manage-Emplyees-Core-MVC\Manage Emplyees\Manage Emplyees\bin\Debug\netcoreapp2.1\Manage Emplyees.deps.json
+E:\Github\Private Projects\Manage-Emplyees-Core-MVC\Manage Emplyees\Manage Emplyees\bin\Debug\netcoreapp2.1\Manage Emplyees.runtimeconfig.json
+E:\Github\Private Projects\Manage-Emplyees-Core-MVC\Manage Emplyees\Manage Emplyees\bin\Debug\netcoreapp2.1\Manage Emplyees.runtimeconfig.dev.json
+E:\Github\Private Projects\Manage-Emplyees-Core-MVC\Manage Emplyees\Manage Emplyees\bin\Debug\netcoreapp2.1\Manage Emplyees.dll
+E:\Github\Private Projects\Manage-Emplyees-Core-MVC\Manage Emplyees\Manage Emplyees\bin\Debug\netcoreapp2.1\Manage Emplyees.pdb
+E:\Github\Private Projects\Manage-Emplyees-Core-MVC\Manage Emplyees\Manage Emplyees\bin\Debug\netcoreapp2.1\Manage Emplyees.Views.dll
+E:\Github\Private Projects\Manage-Emplyees-Core-MVC\Manage Emplyees\Manage Emplyees\bin\Debug\netcoreapp2.1\Manage Emplyees.Views.pdb
+E:\Github\Private Projects\Manage-Emplyees-Core-MVC\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Manage Emplyees.csprojAssemblyReference.cache
+E:\Github\Private Projects\Manage-Emplyees-Core-MVC\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Manage Emplyees.AssemblyInfoInputs.cache
+E:\Github\Private Projects\Manage-Emplyees-Core-MVC\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Manage Emplyees.AssemblyInfo.cs
+E:\Github\Private Projects\Manage-Emplyees-Core-MVC\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Manage Emplyees.csproj.CoreCompileInputs.cache
+E:\Github\Private Projects\Manage-Emplyees-Core-MVC\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Manage Emplyees.RazorAssemblyInfo.cache
+E:\Github\Private Projects\Manage-Emplyees-Core-MVC\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Manage Emplyees.RazorAssemblyInfo.cs
+E:\Github\Private Projects\Manage-Emplyees-Core-MVC\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Manage Emplyees.TagHelpers.input.cache
+E:\Github\Private Projects\Manage-Emplyees-Core-MVC\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Manage Emplyees.TagHelpers.output.cache
+E:\Github\Private Projects\Manage-Emplyees-Core-MVC\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Manage Emplyees.RazorCoreGenerate.cache
+E:\Github\Private Projects\Manage-Emplyees-Core-MVC\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Razor\Views\Account\Create.cshtml.g.cs
+E:\Github\Private Projects\Manage-Emplyees-Core-MVC\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Razor\Views\Account\CreateRole.cshtml.g.cs
+E:\Github\Private Projects\Manage-Emplyees-Core-MVC\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Razor\Views\Account\Details.cshtml.g.cs
+E:\Github\Private Projects\Manage-Emplyees-Core-MVC\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Razor\Views\Account\DetailsRole.cshtml.g.cs
+E:\Github\Private Projects\Manage-Emplyees-Core-MVC\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Razor\Views\Account\Edit.cshtml.g.cs
+E:\Github\Private Projects\Manage-Emplyees-Core-MVC\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Razor\Views\Account\EditRole.cshtml.g.cs
+E:\Github\Private Projects\Manage-Emplyees-Core-MVC\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Razor\Views\Account\Home.cshtml.g.cs
+E:\Github\Private Projects\Manage-Emplyees-Core-MVC\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Razor\Views\Account\Index.cshtml.g.cs
+E:\Github\Private Projects\Manage-Emplyees-Core-MVC\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+E:\Github\Private Projects\Manage-Emplyees-Core-MVC\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Razor\Views\Account\RoleList.cshtml.g.cs
+E:\Github\Private Projects\Manage-Emplyees-Core-MVC\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Razor\Views\Account\Search.cshtml.g.cs
+E:\Github\Private Projects\Manage-Emplyees-Core-MVC\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Razor\Views\Employees\Create.cshtml.g.cs
+E:\Github\Private Projects\Manage-Emplyees-Core-MVC\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Razor\Views\Employees\Delete.cshtml.g.cs
+E:\Github\Private Projects\Manage-Emplyees-Core-MVC\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Razor\Views\Employees\Details.cshtml.g.cs
+E:\Github\Private Projects\Manage-Emplyees-Core-MVC\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Razor\Views\Employees\Edit.cshtml.g.cs
+E:\Github\Private Projects\Manage-Emplyees-Core-MVC\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Razor\Views\Employees\Index.cshtml.g.cs
+E:\Github\Private Projects\Manage-Emplyees-Core-MVC\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Razor\Views\Employees\Search.cshtml.g.cs
+E:\Github\Private Projects\Manage-Emplyees-Core-MVC\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Github\Private Projects\Manage-Emplyees-Core-MVC\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Github\Private Projects\Manage-Emplyees-Core-MVC\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+E:\Github\Private Projects\Manage-Emplyees-Core-MVC\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Github\Private Projects\Manage-Emplyees-Core-MVC\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Github\Private Projects\Manage-Emplyees-Core-MVC\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Manage Emplyees.RazorTargetAssemblyInfo.cache
+E:\Github\Private Projects\Manage-Emplyees-Core-MVC\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Manage Emplyees.RazorTargetAssemblyInfo.cs
+E:\Github\Private Projects\Manage-Emplyees-Core-MVC\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Manage Emplyees.Views.pdb
+E:\Github\Private Projects\Manage-Emplyees-Core-MVC\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Manage Emplyees.genruntimeconfig.cache
+E:\Github\Private Projects\Manage-Emplyees-Core-MVC\Manage Emplyees\Manage Emplyees\obj\Debug\netcoreapp2.1\Manage Emplyees.csproj.CopyComplete
